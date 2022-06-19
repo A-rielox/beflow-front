@@ -22,52 +22,14 @@ body {
 
 	--black: #222;
 	--white: #fff;
-	/* --red-light: #f8d7da;
-	--red-dark: #842029;
-	--green-light: #d1e7dd;
-	--green-dark: #0f5132; */
-
 	--backgroundColor: #f0f4f8;
 	--textColor: #102a43;
 	--borderRadius: 0.25rem;
 	--letterSpacing: 1px;
 
 	--transition: 0.3s ease-in-out all;
+}
 
-	/* --shadow-dark: 5px 5px 15px 5px rgba(0, 0, 0, 0.4);
-
-	--shadow-light: 5px 5px 15px 5px rgba(0, 0, 0, 0.2); */
-}
-/* 
-.btn {
-	cursor: pointer;
-	color: var(--white);
-	background: var(--primary);
-	border: transparent;
-	border-radius: var(--borderRadius);
-	letter-spacing: var(--letterSpacing);
-	padding: 0.375rem 0.75rem;
-	box-shadow: var(--shadow-light);
-	transition: var(--transition);
-	text-transform: capitalize;
-	display: inline-block;
-}
-.btn:hover {
-	background: var(--primary-dark);
-	box-shadow: var(--shadow-dark);
-}
-.btn-block {
-	width: 100%;
-}
-a {
-	text-decoration: none;
-	letter-spacing: var(--letterSpacing);
-} */
-
-/* h1,
-h2,
-h3,
-h4, */
 h5 {
 	margin: 0;
 	margin-bottom: 1.38rem;
